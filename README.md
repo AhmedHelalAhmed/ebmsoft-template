@@ -1,4 +1,8 @@
-# ebmsoft
+# EBMSoft Profile Template
+> Open source Tech-Company custom profile template
+
+## Demo
+see demo here: [EBMSoft.net](https://www.ebmsoft.net)
 
 ## Clone the repo
 ```
